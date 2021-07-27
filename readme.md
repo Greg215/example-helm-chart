@@ -13,5 +13,5 @@
 1. kubectl get pods
 2. kubectl get services
 3. kubectl get deployment
-4. On the lab instructions page, copy the public IP address.
+4. Copy the public DNS name of the cluster.
 5. In a new browser tab, paste in the public IP address. Add a colon (:) after it. Copy the port number of <The release chart name> from your terminal output (the number after 80: and before the /TCP), and paste it after the colon in the address bar of your browser tab.
